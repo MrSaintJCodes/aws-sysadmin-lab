@@ -4,6 +4,8 @@
 
 This repository provisions and configures a 3-tier AWS application environment using Terraform for infrastructure and Ansible for instance configuration.
 
+<img width="487" height="636" alt="Image" src="https://github.com/user-attachments/assets/92f94d0f-7e11-444c-966d-47cc44b50094" />
+
 The architecture includes:
 - VPC with public, private, and database subnets
 - Internet Gateway and NAT Gateways
